@@ -1,3 +1,12 @@
 // Place all the styles related to the StaticPages controller here.
 // They will automatically be included in application.css.
 // You can use Sass (SCSS) here: http://sass-lang.com/
+
+#pink a:hover {
+	color: pink;
+}
+
+#ramen img {
+	margin-bottom: 5%;
+	border: solid 2px black;
+}
